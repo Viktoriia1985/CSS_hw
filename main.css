@@ -1,0 +1,38 @@
+body {
+    background: #d5d0ee;
+}
+
+#TomCruise {
+    width: 350px;
+    border: 10px solid #b4d6f6;
+    align-items: center;
+}
+
+.top {
+    background: #b7eaea;
+}
+
+img {
+    width: 200px;
+}
+
+.father {
+    background: #baf1d1;
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.movie {
+    width: 250px;
+    background: #f5f599;
+}
+
+
+/*.footer {
+    background: #f5f599;
+}*/
+
+
+
