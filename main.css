@@ -1,43 +1,68 @@
 body {
-    background: #d5d0ee;
+    background: #ffffff;
 }
 
 #TomCruise {
-    width: 350px;
+    width: 450px;
     border: 10px solid #b4d6f6;
-    align-items: center;
+    margin: 0px 0px 0px 350px;
+}
+
+.point {
+    width: 500px;
+    border: 1px dashed #041d6b;
+    color: #917f05;
+    text-align: center;
+    box-sizing: border-box;
+    overflow: hidden;
 }
 
 .top {
-    background: #b7eaea;
+    background: #dffff7;
+    padding: 10px;
+    margin: 50px;
 }
 
 img {
     width: 200px;
 }
+.content {
+    background: azure;
+    margin: 50px;
+    padding: 10px;
+}
+li p {
+    text-align: justify;
+}
 
 .content-2 {
-    width: auto;
     background: beige;
+    margin: 50px;
+    padding: 10px;
 }
 
 .father {
-    background: #baf1d1;
+    background: #cff8dd;
     height: 250px;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin: 50px;
+    padding: 10px;
 }
 
 .movie {
     width: 250px;
-    background: #f5f599;
+    background: azure;
 }
 
 
-/*.footer {
-    background: #f5f599;
-}*/
+.footer {
+    background: azure;
+    margin: 50px;
+    padding: 10px;
+    border: 1px dotted lightgray;
+}
 
 
 
