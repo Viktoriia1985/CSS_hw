@@ -16,6 +16,11 @@ img {
     width: 200px;
 }
 
+.content-2 {
+    width: auto;
+    background: beige;
+}
+
 .father {
     background: #baf1d1;
     height: 250px;
